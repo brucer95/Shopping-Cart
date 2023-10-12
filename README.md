@@ -8,4 +8,10 @@ Carrito de compras realizado con React y Vite que permite una mayor dinamica de 
 
 *****
 
+Toda la aplicacion se encuentra dentro del archivo CarritoApp
+
+*****
+
+Para dicho diseño utilice Boostrap y MUI.
+
 
